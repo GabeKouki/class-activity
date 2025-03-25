@@ -12,4 +12,4 @@
 - They further seperated methods and made more java classes.
 
 # We Should Have
-- Create the reader and writer in main and pass these into the functions so that these functions could be used for more than one file.
+- Created the reader and writer in main and pass these into the functions so that these functions could be used for more than one file.
