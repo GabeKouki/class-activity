@@ -10,3 +10,6 @@
 - Made multiple interfaces for reader, writer, and the database.
 - Created the reader and writer within the main class not in the encoding module.
 - They further seperated methods and made more java classes.
+
+# We Should Have
+- Create the reader and writer in main and pass these into the functions so that these functions could be used for more than one file.
